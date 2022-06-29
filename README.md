@@ -9,12 +9,13 @@ MRSBD is developed for live server like tv streaming server built on Laravel 9
 ## Dashboard
 ![Screenshot_3](https://user-images.githubusercontent.com/107453434/176536326-9f9b3837-b7ec-401c-97da-221158e51398.jpg)
 
-## Learning Laravel
+## Live System
+![Screenshot_4](https://user-images.githubusercontent.com/107453434/176536618-f2dd592e-102c-47b3-a842-5723fb85ad1c.jpg)<br/>
+![Screenshot_5](https://user-images.githubusercontent.com/107453434/176536629-7f2bb2b5-2d5e-47da-b8df-99ec9e5c1f07.jpg)
+
+## Live Streaming
 ![Screenshot_26](https://user-images.githubusercontent.com/107453434/176533252-148c0972-5a07-4b44-9bba-7bab91cb3bd9.jpg)
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
 ### Premium Partners
 
