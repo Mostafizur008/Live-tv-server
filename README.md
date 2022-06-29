@@ -1,10 +1,7 @@
 <p align="center"><a href="https://facebook.com/sm.sohag007" target="_blank"><img src="https://user-images.githubusercontent.com/107453434/176463015-4baad7de-f888-4a12-9a30-4d059fb5d498.jpg"></a></p>
 
-## About Laravel
-
-I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Laravel Framework but some Creativity I enjoy working with include Photoshop.
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Laravel Live Tv Server
+MRSBD is developed for live server like tv streaming server built on Laravel 8
 
 ## Learning Laravel
 ![Screenshot_26](https://user-images.githubusercontent.com/107453434/176533252-148c0972-5a07-4b44-9bba-7bab91cb3bd9.jpg)
