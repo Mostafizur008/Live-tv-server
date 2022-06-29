@@ -18,6 +18,14 @@ MRSBD is developed for live server like tv streaming server built on Laravel 9
 ### Live Streaming
 ![Screenshot_26](https://user-images.githubusercontent.com/107453434/176533252-148c0972-5a07-4b44-9bba-7bab91cb3bd9.jpg)
 
+## Requirements
+Check Laravel 9 Requirements https://laravel.com/docs/9.x
+
+## Installation
+- Install dependencies (composer install)<br>
+- Set Database Credentials & App Settings in dotenv file (.env)<br>
+- Migrate Database (php artisan migrate)<br>
+- Database seed (php artisan db:seed)
 
 ### Premium Partners
 
@@ -36,8 +44,7 @@ MRSBD is developed for live server like tv streaming server built on Laravel 9
 - **[Lendio](https://lendio.com)**
 
 ## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Your Contributions & suggestions are welcomed. Please use Pull Request
 
 ## Code of Conduct
 
