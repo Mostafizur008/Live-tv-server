@@ -1,7 +1,10 @@
 <p align="center"><a href="https://facebook.com/sm.sohag007" target="_blank"><img src="https://user-images.githubusercontent.com/107453434/176463015-4baad7de-f888-4a12-9a30-4d059fb5d498.jpg"></a></p>
 
 ## Laravel Live Tv Server
-MRSBD is developed for live server like tv streaming server built on Laravel 8
+MRSBD is developed for live server like tv streaming server built on Laravel 9
+
+## Dashboard
+![Screenshot_32](https://user-images.githubusercontent.com/107453434/176534747-b48cf237-8f70-4b52-8a49-5fea1880df2d.jpg)
 
 ## Learning Laravel
 ![Screenshot_26](https://user-images.githubusercontent.com/107453434/176533252-148c0972-5a07-4b44-9bba-7bab91cb3bd9.jpg)
