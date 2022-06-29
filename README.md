@@ -3,8 +3,11 @@
 ## Laravel Live Tv Server
 MRSBD is developed for live server like tv streaming server built on Laravel 9
 
+## Login System
+![Screenshot_2](https://user-images.githubusercontent.com/107453434/176536061-312d9681-692b-412e-9380-8c8f19287332.jpg)
+
 ## Dashboard
-![Screenshot_32](https://user-images.githubusercontent.com/107453434/176534747-b48cf237-8f70-4b52-8a49-5fea1880df2d.jpg)
+![Screenshot_3](https://user-images.githubusercontent.com/107453434/176536326-9f9b3837-b7ec-401c-97da-221158e51398.jpg)
 
 ## Learning Laravel
 ![Screenshot_26](https://user-images.githubusercontent.com/107453434/176533252-148c0972-5a07-4b44-9bba-7bab91cb3bd9.jpg)
